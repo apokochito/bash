@@ -13,6 +13,9 @@
   - Scripting
     
     Scripting allows for an automatic commands execution that would otherwise be executed interactively one-by-one.
+    
+  - Cheatsheet
+    https://devhints.io/bash
 
 - **My first script**
   
