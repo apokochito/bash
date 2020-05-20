@@ -22,3 +22,5 @@
   - Create a new file called task.sh (using vim) and write some commands, once ready, make your new file executable using chmod command with an option +x **$ chmod +x task.sh**
   
   - Lastly, execute your new script by prefixing its name with **$ ./task.sh**
+  
+  -
